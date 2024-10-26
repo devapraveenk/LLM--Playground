@@ -1,0 +1,27 @@
+# Ignore virtual environment directory
+analyst/
+
+# Ignore streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore .env file
+.env
+
+# Ignore miscellaneous folder
+miscellaneous/
+tmp/
+FAISS_IndexMusuemkkr/
+
+# Ignore typical OS-specific files
+.DS_Store
+Thumbs.db
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+trained_agents_data.pkl
