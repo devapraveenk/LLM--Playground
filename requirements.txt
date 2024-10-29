@@ -1,4 +1,4 @@
 python-dotenv
 langchain
 langchain_community
-openai
+langchain-openai
