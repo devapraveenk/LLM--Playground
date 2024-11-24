@@ -11,6 +11,7 @@ analyst/
 miscellaneous/
 tmp/
 FAISS_IndexMusuemkkr/
+src/
 
 # Ignore typical OS-specific files
 .DS_Store
