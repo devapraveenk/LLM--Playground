@@ -25,3 +25,5 @@ __pycache__/
 .ipynb_checkpoints/
 
 trained_agents_data.pkl
+
+Antar_AI/
